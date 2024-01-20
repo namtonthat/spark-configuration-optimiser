@@ -1,7 +1,7 @@
 # scopt
 
-[![Unit test](https://github.com/KanchiShimono/scopt/actions/workflows/test.yml/badge.svg)](https://github.com/KanchiShimono/scopt/actions/workflows/test.yml)
-[![Build Release draft](https://github.com/KanchiShimono/scopt/actions/workflows/release-drafter.yaml/badge.svg)](https://github.com/KanchiShimono/scopt/actions/workflows/release-drafter.yaml)
+[![Unit test](https://github.com/namtonthat/spark-configuration-optimiser/actions/workflows/test.yml/badge.svg)](https://github.com/namtonthat/spark-configuration-optimiser/actions/workflows/test.yml)
+[![Build Release draft](https://github.com/namtonthat/spark-configuration-optimiser/actions/workflows/release-drafter.yaml/badge.svg)](https://github.com/namtonthat/spark-configuration-optimiser/actions/workflows/release-drafter.yaml)
 
 Spark Config Optimizer calculate optimal cpu cores and memory values for Spark executor and driver.
 
